@@ -1,5 +1,3 @@
-# Exercício de classe 🏫
-
 ## Projeto "Galeria"
 
 Seu objetivo é replicar o layout e funcionalidades da página encontrada no arquivo .fig (raiz do projeto).
