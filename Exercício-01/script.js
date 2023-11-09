@@ -38,10 +38,6 @@ modal.addEventListener('click', function (event) {
     imgPrev.classList.add('escondido');
 })
 
-
-
-
-
 function abrirModal(event) {
     imgModal.src = event.target.src;
     modal.classList.remove('escondido');
